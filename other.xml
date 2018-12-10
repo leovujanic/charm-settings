@@ -1,0 +1,58 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/computer_vision/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/docker-comp/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ds-adapter/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ds-aws/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ds-common/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/falcon-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/flask-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/hug-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/inputs_to_vector/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/jungle-gym/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/plc-snap/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/sqlalchemy-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/stitch/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test-repo/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/test/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/computer_vision/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/docker-comp/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ds-adapter/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ds-aws/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/falcon-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/flask-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/hug-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/jungle-gym/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/plc-snap/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/sqlalchemy-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/stitch/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test-repo/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/computer_vision/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/docker-comp/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ds-adapter/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ds-aws/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/falcon-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/flask-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/hug-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/jungle-gym/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/plc-snap/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/sqlalchemy-test/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/stitch/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test-repo/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
