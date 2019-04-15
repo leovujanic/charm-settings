@@ -6,6 +6,7 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="TYPE-ANNOTATIONS.md" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
