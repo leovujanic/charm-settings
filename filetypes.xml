@@ -8,6 +8,7 @@
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="TYPE-ANNOTATIONS.md" type="PLAIN_TEXT" />
       <mapping ext="txtx" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
